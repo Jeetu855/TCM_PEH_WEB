@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "522b196ce7eda70f",
+    "type": "split",
+    "children": [
+      {
+        "id": "109048433cd6e04c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f28cd3c07601bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDOR/Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bedbc227b870ee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c097c0a226e2adc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc29840681761e27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa1b1adb30ee6c38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ff14ff42abef9fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "967f1769b4123ef8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bac09a2774fb87eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e70fce375355dfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IDOR/Lab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4feee0bed15e7b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IDOR/Lab.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9839e63b8fea6bd2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c798e1d579a6f325",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IDOR/Lab.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8f28cd3c07601bdb",
+  "lastOpenFiles": [
+    "IDOR/Attachments/Pasted image 20230712150944.png",
+    "IDOR/Attachments/Pasted image 20230712145635.png",
+    "IDOR/Attachments/Pasted image 20230712145251.png",
+    "IDOR/Attachments/Pasted image 20230712145157.png",
+    "IDOR/Attachments",
+    "Lab.md",
+    "IDOR/Lab.md",
+    "XSS/DOM XSS.md",
+    "IDOR",
+    "Pasted image 20230712132457.png",
+    "XSS/Stored XSS.md",
+    "SQL_Injection/LABS.md",
+    "XSS",
+    "SQL_Injection"
+  ]
+}
