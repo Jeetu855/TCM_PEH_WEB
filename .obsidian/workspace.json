@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command-Injection/Challenge.md",
+                "file": "Insecure_File_Upload/Challenge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command-Injection/Challenge.md",
+                "file": "Insecure_File_Upload/Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command-Injection/Challenge.md",
+                "file": "Insecure_File_Upload/Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command-Injection/Challenge.md"
+                "file": "Insecure_File_Upload/Challenge.md"
               }
             }
           }
@@ -148,21 +148,26 @@
   },
   "active": "8f28cd3c07601bdb",
   "lastOpenFiles": [
-    "Command-Injection/Attachments/Pasted image 20230715180821.png",
+    "Insecure_File_Upload/Attachments/Pasted image 20230716184852.png",
+    "Insecure_File_Upload/Attachments/Pasted image 20230716184834.png",
+    "Insecure_File_Upload/Magic Bytes.md",
+    "Insecure_File_Upload/Challenge.md",
+    "Insecure_File_Upload/Attachments/Pasted image 20230716184000.png",
+    "Insecure_File_Upload/Attachments/Pasted image 20230716183934.png",
+    "Insecure_File_Upload/Attachments/Pasted image 20230716183816.png",
+    "Insecure_File_Upload/Attachments/Pasted image 20230716183638.png",
+    "Insecure_File_Upload/Attachments/Pasted image 20230716183627.png",
+    "Insecure_File_Upload/Attachments/Pasted image 20230716011634.png",
+    "Insecure_File_Upload/Attachments/Pasted image 20230716011547.png",
+    "Insecure_File_Upload/Attachments/Pasted image 20230716011133.png",
+    "Insecure_File_Upload/Attachments/Pasted image 20230716010709.png",
+    "Insecure_File_Upload/Lab1.md",
     "Command-Injection/Blind_Out-of-Band.md",
+    "Insecure_File_Upload/Attachments",
     "Command-Injection/Challenge.md",
+    "Insecure_File_Upload",
     "Command-Injection/Lab1.md",
     "XSS/Lab Challenge.md",
-    "Command-Injection/Attachments/Pasted image 20230715155552.png",
-    "Command-Injection/Attachments/Pasted image 20230715155440.png",
-    "Command-Injection/Attachments/Pasted image 20230715155113.png",
-    "Command-Injection/Attachments/Pasted image 20230715154539.png",
-    "Command-Injection/Attachments/Pasted image 20230715154505.png",
-    "Command-Injection/Attachments/Pasted image 20230715153802.png",
-    "Command-Injection/Attachments/Pasted image 20230715153626.png",
-    "Command-Injection/Attachments/Pasted image 20230715153450.png",
-    "Command-Injection/Attachments/Pasted image 20230715152949.png",
-    "Command-Injection/Attachments/Pasted image 20230715152426.png",
     "Command-Injection/Attachments",
     "IDOR/Lab.md",
     "Command-Injection",
