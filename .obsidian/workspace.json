@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insecure_File_Upload/Challenge.md",
+                "file": "Attacking-Authentication/Challenge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insecure_File_Upload/Challenge.md",
+                "file": "Attacking-Authentication/Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insecure_File_Upload/Challenge.md",
+                "file": "Attacking-Authentication/Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Insecure_File_Upload/Challenge.md"
+                "file": "Attacking-Authentication/Challenge.md"
               }
             }
           }
@@ -148,19 +148,24 @@
   },
   "active": "8f28cd3c07601bdb",
   "lastOpenFiles": [
-    "Insecure_File_Upload/Attachments/Pasted image 20230716184852.png",
-    "Insecure_File_Upload/Attachments/Pasted image 20230716184834.png",
-    "Insecure_File_Upload/Magic Bytes.md",
+    "Attacking-Authentication/Attachments/Pasted image 20230717234904.png",
+    "Attacking-Authentication/Attachments/Pasted image 20230717233545.png",
+    "Attacking-Authentication/Brute Force.md",
+    "Attacking-Authentication/Challenge.md",
+    "Attacking-Authentication/Attachments/Pasted image 20230717233149.png",
+    "Attacking-Authentication/Attachments/Pasted image 20230717233011.png",
+    "Attacking-Authentication/MFA.md",
+    "Attacking-Authentication/Attachments/Pasted image 20230717232617.png",
+    "Attacking-Authentication/Attachments/Pasted image 20230717232529.png",
+    "Attacking-Authentication/Attachments/Pasted image 20230717231748.png",
+    "Attacking-Authentication/Attachments/Pasted image 20230717231730.png",
+    "Attacking-Authentication/Attachments/Pasted image 20230717231529.png",
+    "Attacking-Authentication/Attachments/Pasted image 20230717231212.png",
+    "Attacking-Authentication/Attachments/Pasted image 20230717230859.png",
+    "Attacking-Authentication/Attachments",
     "Insecure_File_Upload/Challenge.md",
-    "Insecure_File_Upload/Attachments/Pasted image 20230716184000.png",
-    "Insecure_File_Upload/Attachments/Pasted image 20230716183934.png",
-    "Insecure_File_Upload/Attachments/Pasted image 20230716183816.png",
-    "Insecure_File_Upload/Attachments/Pasted image 20230716183638.png",
-    "Insecure_File_Upload/Attachments/Pasted image 20230716183627.png",
-    "Insecure_File_Upload/Attachments/Pasted image 20230716011634.png",
-    "Insecure_File_Upload/Attachments/Pasted image 20230716011547.png",
-    "Insecure_File_Upload/Attachments/Pasted image 20230716011133.png",
-    "Insecure_File_Upload/Attachments/Pasted image 20230716010709.png",
+    "Attacking-Authentication",
+    "Insecure_File_Upload/Magic Bytes.md",
     "Insecure_File_Upload/Lab1.md",
     "Command-Injection/Blind_Out-of-Band.md",
     "Insecure_File_Upload/Attachments",
