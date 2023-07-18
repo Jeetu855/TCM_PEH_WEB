@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attacking-Authentication/Challenge.md",
+                "file": "SQL_Injection/Challenge.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attacking-Authentication/Challenge.md",
+                "file": "SQL_Injection/Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attacking-Authentication/Challenge.md",
+                "file": "SQL_Injection/Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attacking-Authentication/Challenge.md"
+                "file": "SQL_Injection/Challenge.md"
               }
             }
           }
@@ -148,20 +148,27 @@
   },
   "active": "8f28cd3c07601bdb",
   "lastOpenFiles": [
-    "Attacking-Authentication/Attachments/Pasted image 20230717234904.png",
-    "Attacking-Authentication/Attachments/Pasted image 20230717233545.png",
-    "Attacking-Authentication/Brute Force.md",
+    "SQL_Injection/Attachments/Pasted image 20230718214613.png",
+    "SQL_Injection/Attachments/Pasted image 20230718214407.png",
+    "SQL_Injection/Attachments/Pasted image 20230718213816.png",
+    "SQL_Injection/Attachments/Pasted image 20230718213739.png",
+    "SQL_Injection/Attachments/Pasted image 20230718213355.png",
+    "SQL_Injection/Attachments/Pasted image 20230718213206.png",
+    "SQL_Injection/Attachments/Pasted image 20230718213011.png",
+    "SQL_Injection/Attachments/Pasted image 20230718205817.png",
+    "SQL_Injection/Blind SQL Injection.md",
+    "SQL_Injection/Challenge.md",
+    "SQL_Injection/Attachments/Pasted image 20230718205513.png",
+    "SQL_Injection/Attachments/Pasted image 20230718205131.png",
+    "SQL_Injection/Attachments/Pasted image 20230718205033.png",
+    "SQL_Injection/UNION.md",
+    "SQL_Injection/Attachments",
+    "XXE/LAB1.md",
+    "XXE/Attachments",
     "Attacking-Authentication/Challenge.md",
-    "Attacking-Authentication/Attachments/Pasted image 20230717233149.png",
-    "Attacking-Authentication/Attachments/Pasted image 20230717233011.png",
+    "XXE",
+    "Attacking-Authentication/Brute Force.md",
     "Attacking-Authentication/MFA.md",
-    "Attacking-Authentication/Attachments/Pasted image 20230717232617.png",
-    "Attacking-Authentication/Attachments/Pasted image 20230717232529.png",
-    "Attacking-Authentication/Attachments/Pasted image 20230717231748.png",
-    "Attacking-Authentication/Attachments/Pasted image 20230717231730.png",
-    "Attacking-Authentication/Attachments/Pasted image 20230717231529.png",
-    "Attacking-Authentication/Attachments/Pasted image 20230717231212.png",
-    "Attacking-Authentication/Attachments/Pasted image 20230717230859.png",
     "Attacking-Authentication/Attachments",
     "Insecure_File_Upload/Challenge.md",
     "Attacking-Authentication",
@@ -179,10 +186,6 @@
     "XSS/Stored XSS.md",
     "XSS/DOM XSS.md",
     "IDOR/Attachments",
-    "Lab.md",
-    "IDOR",
-    "SQL_Injection/LABS.md",
-    "XSS",
-    "SQL_Injection"
+    "Lab.md"
   ]
 }
