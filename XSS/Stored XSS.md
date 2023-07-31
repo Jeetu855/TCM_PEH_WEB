@@ -1,4 +1,7 @@
 
+Server Side Injection
+so some traffic can be seen in network tab(same for reflected XSS)
+
 Spawn 2 containers
 
 set cookie in one of the containers
@@ -7,7 +10,7 @@ to check if cookie is set
 1)console.log(document.cookie)
 2)Dev tool -> Storage ->Cookie
 
-to check for XSS first try HTML injection coz that is likely to work
+***to check for XSS first try HTML injection coz that is likely to work***
 
 
 in the input field
@@ -30,4 +33,4 @@ to get the cookie of other users
 ```
 
 
-if http only flag set, JS cannot access the cookies
+***if http only flag set, JS cannot access the cookies***

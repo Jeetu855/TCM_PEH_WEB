@@ -14,4 +14,4 @@ change this to target user
 
 **Applicable when same token valid for all users**
 
-**OR we can brute force the MFA token on jeremy account"
+**OR we can brute force the MFA token on jeremy account

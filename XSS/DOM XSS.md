@@ -1,5 +1,5 @@
 
-
+clinet side injection
 
 user i/p is reflected so maybe it is reflected XSS??
 
@@ -15,6 +15,11 @@ try other payload
 
 ```html
 <img src onerror="prompt(1)"/>
+```
+
+OR
+```html
+<iframe src onload="alert`1`"/>
 ```
 
 to forward the user to different location

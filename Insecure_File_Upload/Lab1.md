@@ -3,11 +3,13 @@ check the types of file that can be uploaded
 
 only .jpg and .png allowed
 
-**open network tab and see if any request going when you try to upload wrong type of file
+***open network tab and see if any request going when you try to upload wrong type of file
 if no request in network tab then file type checking done on client side 
-else if any requests in network tab when we try to upload wrong type of file means checking done on server side**
+else if any requests in network tab when we try to upload wrong type of file means checking done on server side***
 
-**If checking done on client side, send correct file type, intercept the request, modify the file type and data and forward it and see if it is accepted**
+***If checking done on client side, send correct file type, intercept the request, modify the file type and data and forward it and see if it is accepted  
+OR 
+Disable JS so the check will never happen then send the file***
 
 here this method works as we upload png, intercept the request and change it to a php file
 

